@@ -1,6 +1,6 @@
 # 100 Coding Languages Challenge
 
-These are the 100 coding languages that I will learning for my video
+These are the 100 coding languages that I will learn for my video
 
 ### Tier 1. The basics
 1. Java

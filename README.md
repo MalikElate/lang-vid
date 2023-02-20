@@ -18,6 +18,9 @@ These are the 100 coding languages that I will learn for my video
 ### Tier 3. Cursed and abandoned languages 
 1. pop-11 
 2. racket 
+3. brain fuck 
+4. ook! 
+5. shakespear
 
 ## Installation
 Each language is subject to its own dev environment and set up. I'm not going to take the time to explain each one here. 
